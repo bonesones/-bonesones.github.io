@@ -93,7 +93,7 @@ ul a{
     margin: auto;
     margin-bottom: 60px;
     background: #A73898;
-    width: 300px;
+    min-width: 300px;
     height: 65px;
     border-radius: 60px;
     display: block;
