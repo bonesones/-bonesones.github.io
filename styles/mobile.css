@@ -112,12 +112,12 @@ ul a{
 
 .main-info{
    background-color: #C996C2;
-    min-width: 300px;
-    height: 340px;
-    margin-left: clamp(10px, 5%, 30px);
-    margin-top: 60px;
-    margin-right: clamp(10px, 5%, 30px);
-    border-radius: 35px;
+   min-width: 300px;
+   height: 340px;
+   margin-left: clamp(10px, 5%, 30px);
+   margin-top: 60px;
+   margin-right: clamp(10px, 5%, 30px);
+   border-radius: 35px;
 }
 .right_img{
     padding-right:  55px;
