@@ -70,7 +70,7 @@ li{
 }
 .active{
     display: block;
-    background: #C996C2;
+    background: #b068a6;
     width: 146px;
     height: 51px;
     border-radius: 10px;
@@ -90,7 +90,7 @@ ul a{
 .reg_btn{
     margin: auto;
     margin-bottom : 80px;
-    background: #A73898;
+    background: #a8529d;
     width: 624px;
     height: 70px;
     border-radius: 60px;
@@ -105,7 +105,7 @@ ul a{
 }
 
 .main-info{
-   background-color: #A73898;
+   background-color: #a8529d;
     width: 830px;
     min-height: 540px;
     margin-left: auto;
