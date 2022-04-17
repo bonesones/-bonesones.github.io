@@ -157,7 +157,7 @@ h2{
     box-sizing: border-box;
     border-radius: 35px;
     width: 250px;
-    height: auto;
+    min-height: 250px;
     margin-right: auto;
     margin-left: auto;    
     margin-bottom: 30px;
@@ -168,7 +168,7 @@ h2{
     box-sizing: border-box;
     border-radius: 35px;
     width: 250px;
-    height: 250px;
+    min-height: 250px;
     margin-left:auto;
     margin-right:auto;
     margin-bottom: 30px;
