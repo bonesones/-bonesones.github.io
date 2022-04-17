@@ -114,9 +114,9 @@ ul a{
    background-color: #C996C2;
     width: 330px;
     height: 340px;
-    margin-left: auto;
+    margin-left: clamp(10px, 5%, 30px);
     margin-top: 60px;
-    margin-right: auto;
+    margin-right: clamp(10px, 5%, 30px);
     border-radius: 35px;
 }
 .right_img{
