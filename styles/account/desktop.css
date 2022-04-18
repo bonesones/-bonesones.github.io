@@ -1,0 +1,149 @@
+@font-face {
+    font-family: "Domine-Bold";
+    src: url('../font/Domine-Bold.ttf') format("truetype"); 
+    font-style: normal; 
+    font-weight: 700; 
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Domine-Bold';
+
+}
+
+header{
+    width: 100%;
+    overflow: hidden;
+    background-color: #A73898;
+}
+
+
+.img{
+    float: left;
+    padding-top: 37px;
+    padding-bottom: 30px;
+    padding-left: 58px;
+}
+
+.baba{
+    float: left;
+    color: white;
+    padding-top: 44px;
+    padding-bottom: 30px;
+}
+a{
+    color: white;
+}
+a:link{
+    text-decoration: none;
+}
+main{
+    overflow: hidden;
+    background: #edc2e8;
+}
+
+.top_menu{
+    padding: 15px 25px 15px 40px;
+    background-color: #c9a3c4;
+    margin-top: 110px;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+li{
+    display: inline;
+}
+.active{
+    display: block;
+    background: #d44ac1;
+    width: 146px;
+    height: 51px;
+    border-radius: 10px;
+    text-align: center;
+}
+ul a{
+    font-size: 18px;
+    line-height: 45px;
+}
+.wrapper{
+    margin-top: 30px;
+}
+.anketa{
+    color: #A73898;
+    font-weight: 400;
+    font-size: 30px;
+    padding-left: 58px;
+
+}
+.data_wrapper{
+    display: flex;
+}
+.avatar{
+    float: left;
+    padding-bottom: 50px;
+
+}
+.avatar_photo{
+    position: relative;
+    display: table-cell;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    background-color: #C996C2;
+    width: 205px;
+    height: 205px;
+    border-radius: 50%;
+    top: 36px;
+    left: 111px;
+
+}
+.avatar_online{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: #A73898;
+    border-radius: 50%;
+    left: 253px;
+}
+.aboutme_wrapper{
+    float: right;
+}
+.about_me{
+    color: #A73898;
+    font-weight: 400;
+    font-size: 30px;
+    padding-left: 206px;
+}
+.about_me_data{
+    clear: both;
+    background-color: #E4D7D7;
+    width: 1268px;
+    height: 200px;
+}
+
+
+footer{
+    overflow:hidden;
+    color:  white;
+    background-color: #A73898;
+    width: 100%;
+    height: 160px;
+}
+
+.copyrite{
+    float:left;
+    padding: 70px 0 31px 20px;
+}
+.contacts{
+    float: right;
+    padding: 20px 20px 20px 0;
+
+}
